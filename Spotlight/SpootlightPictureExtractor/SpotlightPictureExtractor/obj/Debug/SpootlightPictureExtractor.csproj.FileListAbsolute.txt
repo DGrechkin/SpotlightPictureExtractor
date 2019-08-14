@@ -1,0 +1,7 @@
+C:\Users\grech\Desktop\Spootlight\SpootlightPictureExtractor\SpootlightPictureExtractor\bin\Debug\SpootlightPictureExtractor.exe.config
+C:\Users\grech\Desktop\Spootlight\SpootlightPictureExtractor\SpootlightPictureExtractor\bin\Debug\SpootlightPictureExtractor.exe
+C:\Users\grech\Desktop\Spootlight\SpootlightPictureExtractor\SpootlightPictureExtractor\bin\Debug\SpootlightPictureExtractor.pdb
+C:\Users\grech\Desktop\Spootlight\SpootlightPictureExtractor\SpootlightPictureExtractor\obj\Debug\SpootlightPictureExtractor.csprojAssemblyReference.cache
+C:\Users\grech\Desktop\Spootlight\SpootlightPictureExtractor\SpootlightPictureExtractor\obj\Debug\SpootlightPictureExtractor.csproj.CoreCompileInputs.cache
+C:\Users\grech\Desktop\Spootlight\SpootlightPictureExtractor\SpootlightPictureExtractor\obj\Debug\SpootlightPictureExtractor.exe
+C:\Users\grech\Desktop\Spootlight\SpootlightPictureExtractor\SpootlightPictureExtractor\obj\Debug\SpootlightPictureExtractor.pdb
